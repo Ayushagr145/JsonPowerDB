@@ -12,7 +12,7 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 ⦁	It helps developers in faster coding, in-turn reduces development cost.
 
 ## DASHBOARD:
- 
+ ![Dashboard](https://github.com/Ayushagr145/JsonPowerDB/blob/main/Images/Dashboard.png)
 
 ## Interface:
- 
+ ![Interface](https://github.com/Ayushagr145/JsonPowerDB/blob/main/Images/Interface.png)
